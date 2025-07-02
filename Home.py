@@ -49,5 +49,5 @@ Use the **sidebar** to navigate through interactive modules:
 
 st.info("👈 *Use the sidebar to pick a module.*")
 st.markdown("---")
-st.markdown("[🌐 View Source on GitHub](https://github.com/YourGitHubUsername/dld)")
+
 
